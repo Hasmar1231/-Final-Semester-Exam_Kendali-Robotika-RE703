@@ -1,8 +1,8 @@
 # UAS Delivery Robot FSM using ROS 2 & Gazebo
 
 **Nama Kelompok :**
-- Annisa Shinta Dewi (422220105)
 - Muhammad Hasmar (4222201016)
+- Annisa Shinta Dewi (422220105)
 -------------  
 Project ini merupakan simulasi **robot delivery** dengan menggunakan model articubot berbasis **ROS 2 Humble** yang berjalan di **Gazebo**, menggunakan **Finite State Machine (FSM)** untuk mengatur perilaku robot dalam melakukan pengiriman barang.
 
