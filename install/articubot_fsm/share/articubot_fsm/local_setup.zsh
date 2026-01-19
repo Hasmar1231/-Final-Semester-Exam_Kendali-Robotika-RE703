@@ -1,1 +1,0 @@
-/home/annisashin/articubot_ws/build/articubot_fsm/ament_cmake_environment_hooks/local_setup.zsh
