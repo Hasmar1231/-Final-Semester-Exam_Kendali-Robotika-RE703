@@ -1,0 +1,1 @@
+/home/annisashin/articubot_ws/build/articubot_fsm/ament_cmake_core/articubot_fsmConfig-version.cmake
